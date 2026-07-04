@@ -61,17 +61,17 @@ Experienced in leading projects from concept to production across **finance, HR,
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousef-berro\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-berro\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yousef-berro\&theme=dark\&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=youssef-berro\&theme=dark\&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-berro\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-berro\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yousef-berro\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=youssef-berro\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ---
 
